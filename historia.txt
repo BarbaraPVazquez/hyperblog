@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Esta es la historia de Barbara Vazquez
 
 Nacio, vivio experimentando y viviendo su vida con cosas nuevas
@@ -5,3 +6,20 @@ Nacio, vivio experimentando y viviendo su vida con cosas nuevas
 Durante toda su vida. Nacio en Mexico, viajando
 
 Se ve alta y si lo esta mide 1.74m
+=======
+Esta es la historia de Freddy Vega
+
+Freddy Vega tiene 32 años y nació en Colombia
+
+Anita Platzi es una persona que contribuye a este proyecto open source y nació en Internet
+
+Experimento 1
+
+Experimento 2
+
+Master 1
+
+Master 2
+
+Mañana nos enfocaremos en su vida laboral
+>>>>>>> 0783dac490ec7d21a08c9b7f8eb3a599406dca96

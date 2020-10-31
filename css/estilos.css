@@ -1,13 +1,23 @@
+<<<<<<< HEAD
 body {
     background: #1e1f24;
     color: #333;
     text-align: left;
     font-family: "Arial";
+=======
+body
+{
+    background: #1e1f24;
+    color: #333;
+    text-align: center;
+    font-family: Arial;
+>>>>>>> 0783dac490ec7d21a08c9b7f8eb3a599406dca96
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
 
+<<<<<<< HEAD
 #cabecera {
     background: #37488b;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
@@ -18,17 +28,41 @@ body {
 }
 
 #cabecera #logo {
+=======
+#cabecera
+{
+    background: #37488b;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #logo
+{
+>>>>>>> 0783dac490ec7d21a08c9b7f8eb3a599406dca96
     width: 20px;
     vertical-align: middle;
 }
 
+<<<<<<< HEAD
 #cabecera #tagline {
+=======
+#cabecera #tagline
+{
+>>>>>>> 0783dac490ec7d21a08c9b7f8eb3a599406dca96
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
 }
 
+<<<<<<< HEAD
 #container {
+=======
+#container
+{
+>>>>>>> 0783dac490ec7d21a08c9b7f8eb3a599406dca96
     width: 70%;
     padding: 0;
     text-align: left;
@@ -36,18 +70,39 @@ body {
     margin: 0 auto;
 }
 
+<<<<<<< HEAD
 #container h1 {
     font-size: 20px;
 }
 
 #post {
+=======
+#container h1
+{
+    font-size: 20px;
+}
+#post
+{
+>>>>>>> 0783dac490ec7d21a08c9b7f8eb3a599406dca96
     background: white;
     padding: 1em;
 }
 
+<<<<<<< HEAD
 #footer {
     background: #777;
     color: white;
     text-align: center;
     padding: 0.5em;
 }
+=======
+#footer
+{
+    background: #37488b;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
+
+
+>>>>>>> 0783dac490ec7d21a08c9b7f8eb3a599406dca96
